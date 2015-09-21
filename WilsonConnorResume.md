@@ -1,9 +1,9 @@
-Connor K. Wilson
-10 Robin Rd.
-Republic, WA 99166
+> Connor K. Wilson
+> 10 Robin Rd.
+> Republic, WA 99166
 
-(509)207-9170
-ckwilson42@gmail.com
+> (509)207-9170
+> ckwilson42@gmail.com
 
 
 # About
@@ -61,12 +61,11 @@ Engineering and Applied Science - Computation and Neural Systems
 	command without an open reference but am aware of their usefulness.
 
 * Emacs
-  - I love it, I hate it, please help.
 
 ## Etc
 
 * LaTeX
-  - Prefered to MS Word or equivalents, used for PDF version of this resume.
+  - Used for PDF version of this resume.
   
 * Git
 
@@ -76,44 +75,44 @@ Engineering and Applied Science - Computation and Neural Systems
 # Work Experience
 
 --------------------------------------------------------------------------
-7/2014 -- 12/2014
-AuriQ Systems
-Intern
+> 7/2014 -- 12/2014
+> AuriQ Systems
+> Intern
 
 Analyzed advertising impression and click data using Python and SQLite
 workflows. Prototyped dashboard using Ember.js and D3.js for display
 of data insights to customers in an attractive and comprehensible manner.
 
 --------------------------------------------------------------------------
-Winter 2013 -- Winter 2014
-Caltech
-Cooking TA
+> Winter 2013 -- Winter 2014
+> Caltech
+> Cooking TA
 
 Work in team of 3 TAs to oversee ~10 students as they learn how to cook.
 Prevent injury and promote best practices. 
 
 --------------------------------------------------------------------------
-Spring 2010 -- Winter 2014
-Caltech
-Student Waiter
+> Spring 2010 -- Winter 2014
+> Caltech
+> Student Waiter
 
 Serve students during hovse "family style" sit down dinners. Acted as
 Blacker Hovse headwaiter spring 2012 -- spring 2013. Headwaiter duties
 include managing schedule and liasing with Caltech dining.
 
 --------------------------------------------------------------------------
-Summer: 2011, 2012, 2013, 2015
-W2 Ranch
-Ranch Hand
+> Summer: 2011, 2012, 2013, 2015
+> W2 Ranch
+> Ranch Hand
 
 General purpose ranch hand on small family ranch. Tasks include:
 driving tractor, building fence, chasing cows, and managing irrigation
 systems.
 
 --------------------------------------------------------------------------
-Summer: 2009, 2010
-LCF Enterprise
-Intern
+> Summer: 2009, 2010
+> LCF Enterprise
+> Intern
 
 Independent projects assembling high voltage plasma generators.
 2009: Assemble and test "homebrew" (parts sourced from Wal-Mart and
