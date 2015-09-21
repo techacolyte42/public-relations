@@ -1,3 +1,5 @@
+# About
+
 Connor K. Wilson  
 10 Robin Rd.  
 Republic, WA 99166  
@@ -5,13 +7,10 @@ Republic, WA 99166
 (509)207-9170  
 ckwilson42@gmail.com  
 
-
-# About
-
 New Caltech grad seeking employment beginning early 2016.
 Course experience has centered on brains, computation, and a
 bit of physics, while job experience has included operating heavy
-machinery and Javascript web-front end work. Excited for new
+machinery and JavaScript web-front end work. Excited for new
 challenges and laying strong groundwork for future progress.
 
 
@@ -22,10 +21,10 @@ Out of country November 4th -- December 14th, with limited contact.
 
 # Education
 
-California Institute of Technology
-Bachelor of Science
-Engineering and Applied Science - Computation and Neural Systems
-2009 -- 2015
+California Institute of Technology  
+Bachelor of Science  
+Engineering and Applied Science - Computation and Neural Systems  
+2009 -- 2015  
 
 
 # Toolchain
