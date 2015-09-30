@@ -4,7 +4,7 @@ Connor K. Wilson
 10 Robin Rd.  
 Republic, WA 99166  
 
-(509)207-9170  
+(509) 207 9170  
 ckwilson42@gmail.com  
 
 New Caltech grad seeking employment beginning early 2016.
@@ -139,7 +139,4 @@ Nevada- Reno.
 # Reference
 
 Available on request
-
-
-
 
