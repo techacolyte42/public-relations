@@ -42,43 +42,6 @@ Projects:
 * Wrote preliminary upgraded interface for AuriQ's ETL product
   using the Python argparse library
 
---------------------------------------------------------------------------
-Winter 2013 -- Winter 2014  
-Caltech  
-Cooking TA  
-
-Work in team of 3 TAs to oversee ~10 students as they learn how to cook.
-Prevent injury and promote best practices. 
-
---------------------------------------------------------------------------
-Spring 2010 -- Winter 2014  
-Caltech  
-Student Waiter  
-
-Serve students during hovse "family style" sit down dinners. Acted as
-Blacker Hovse headwaiter spring 2012 -- spring 2013. Headwaiter duties
-include managing schedule and liaising with Caltech dining.
-
---------------------------------------------------------------------------
-Summer: 2011, 2012, 2013, 2015  
-W2 Ranch  
-Ranch Hand  
-
-General purpose ranch hand on small family ranch. Tasks include:
-driving tractor, building fence, chasing cows, and managing irrigation
-systems.
-
---------------------------------------------------------------------------
-Summer: 2009, 2010  
-LCF Enterprise  
-Intern  
-
-Independent projects assembling high voltage plasma generators.
-2009: Assemble and test "homebrew" (parts sourced from Wal-Mart and
-Home Depot) Farnsworth Fusor.
-2010: Assemble and test Dense Plasma Focus designed by University of
-Nevada- Reno.
-
 # Toolchain
 
 ## Languages
