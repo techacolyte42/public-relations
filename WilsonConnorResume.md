@@ -34,11 +34,11 @@ Projects:
 
 * Prototyped dashboard using Ember.js and D3.js for display of data
   insights to customers in an attractive and comprehensible manner.
-  - Set up Flask RESTful server on AWS with SQlite backend for demo purposes
-* Analyzed advertising impression and click data with a smörgåsbord of tools
+  - Set up Flask RESTful server on AWS with SQLite backend for demo purposes
+* Analyzed advertising impression and click data with a smorgasbord of tools
   - Bash pipe and stream with Awk and Sed
   - Python with SciPy and Pandas
-  - SQlite (the unsung hero)
+  - SQLite (the unsung hero)
 * Wrote preliminary upgraded interface for AuriQ's ETL product
   using the Python argparse library
 
@@ -57,7 +57,7 @@ Student Waiter
 
 Serve students during hovse "family style" sit down dinners. Acted as
 Blacker Hovse headwaiter spring 2012 -- spring 2013. Headwaiter duties
-include managing schedule and liasing with Caltech dining.
+include managing schedule and liaising with Caltech dining.
 
 --------------------------------------------------------------------------
 Summer: 2011, 2012, 2013, 2015  
