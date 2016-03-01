@@ -1,20 +1,17 @@
 # About
 
 Connor K. Wilson  
-10 Robin Rd.  
-Republic, WA 99166  
+112 Ware Rd.  
+Woodside, CA 94062  
 
-(509) 207 9170  
+(509) 207-9170  
 ckwilson42@gmail.com  
 
-New Caltech grad seeking employment beginning early 2016.
-Course experience has centered on brains, computation, and a
-bit of physics, while job experience has included operating heavy
-machinery and JavaScript web-front end work. Excited for new
-challenges and laying strong groundwork for future progress.
-
-**Out of country November 4th -- December 14th, with limited contact.**
-													      
+California Institute of Technology new graduate seeking first post
+graduation employment. Course experience has centered on brains,
+computation, and a bit of physics, while job experience has included
+operating heavy machinery and JavaScript web-front end work. Excited
+for new challenges and laying strong groundwork for future progress.
 
 # Education
 
@@ -81,43 +78,28 @@ Nevada- Reno.
 
 # Toolchain
 
-## Languages
-
-* Python
-  - First choice language for getting things done, most usage has
-	been as a Matlab replacement. Second greatest usage for small
-	utility scripts.
+* Python: Proficient
+  - First choice language
 	
-* JavaScript
-  - Toy project at https://github.com/techacolyte42/SpaceFiller
+* JavaScript: Reasonably proficient
+  - See: https://github.com/techacolyte42/SpaceFiller
+
+* Linux: Reasonably proficient
+  - Bash, Awk, Sed, pipe aware
 	
-* C++
-  - Used in general CS classes at Caltech, most comfortable
-	language for algorithm implementation.
+* C++: Reasonably proficient
+
+* Git: Reasonably proficient
 	
-* Matlab
-  - Largely replaced by Python workflows. Have used for fMRI analysis
-	and dynamic systems analysis (although I've found Mathematica to be
-	more useful for the latter).
-	
-* Racket Scheme
-  - To the level of about page 225 of SICP.
+* Matlab: Less proficient
+  - Replaced with Python
 
-## Other
-
-* Linux
-  - Familiar with the Bash pipe/stream workflow. Can't write an Awk or Sed
-	command without an open reference but am aware of their usefulness.
-
-* Emacs
-
-* LaTeX
+* LaTeX: Somewhat proficient
   - Used for PDF version of this resume.
-  
-* Git
 
-* SQLite
-
+* SQLite: Familiar
+	
+* Racket Scheme: Familiar
 
 # Course Sampling
 
@@ -133,6 +115,32 @@ Nevada- Reno.
 * CDS 101	: Design and Analysis of Feedback Systems
 * ACM 95	: Introductory Methods of Applied Mathematics
 * Art 89	: New Media Arts
+
+# Course Notes
+
+Have designed and run experiments in monkeys and mice in the course of
+my studies. Also have some coursework experience with neural networks,
+machine learning, control theory, and signal processing.
+
+# Additional Projects
+
+* The Facewall: 2013  
+
+A pulsating wall of illuminated faces.  Heads of various students were
+turned into 3d models using Autodesk's 123d Catch software.  These
+models were then cast in acrylic and backlit by Raspberry Pi
+controlled LEDs pulsing morse code. My responsibilities in the project
+lay in light control and head modeling, my partner did casting and
+physical design.
+
+* Meteor Map: 2013  
+
+App written in Processing that displays where meteorites have been
+found in the United States, with a mix of toggleable display modes:
+geographical map with groundcover, geographical map with elevation,
+treemap sorted by groundcover, treemap sorted by elevation. An attempt
+to find where people find rocks from space. Conclusion: they find them
+in Texas. 
 
 
 # Reference
