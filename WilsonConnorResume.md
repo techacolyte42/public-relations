@@ -48,15 +48,6 @@ Work in team of 3 TAs to oversee ~10 students as they learn how to cook.
 Prevent injury and promote best practices. 
 
 --------------------------------------------------------------------------
-Spring 2010 -- Winter 2014  
-Caltech  
-Student Waiter  
-
-Serve students during hovse "family style" sit down dinners. Acted as
-Blacker Hovse headwaiter spring 2012 -- spring 2013. Headwaiter duties
-include managing schedule and liaising with Caltech dining.
-
---------------------------------------------------------------------------
 Summer: 2011, 2012, 2013, 2015  
 W2 Ranch  
 Ranch Hand  
@@ -68,7 +59,7 @@ systems.
 --------------------------------------------------------------------------
 Summer: 2009, 2010  
 LCF Enterprise  
-Intern  
+Hardware Intern  
 
 Independent projects assembling high voltage plasma generators.
 2009: Assemble and test "homebrew" (parts sourced from Wal-Mart and
@@ -100,21 +91,6 @@ Nevada- Reno.
 * SQLite: Familiar
 	
 * Racket Scheme: Familiar
-
-# Course Sampling
-
-* CNS 187	: Neural Computation
-* CNS 186	: Vision: From Computational Theory to Neuronal Mechanisms
-* CNS 184	: Primate Vision
-* CNS 162	: Cellular and Systems Neuroscience Laboratory
-* CS 156a	: Learning Systems
-* CNS 153   : Brain Circuits
-* E 120	    : Data Visualization Projects
-* EE 111	: Signal-Processing Systems and Transforms
-* CNS 105	: Frontiers in Neuroeconomics
-* CDS 101	: Design and Analysis of Feedback Systems
-* ACM 95	: Introductory Methods of Applied Mathematics
-* Art 89	: New Media Arts
 
 # Course Notes
 
