@@ -64,21 +64,6 @@ Projects:
 	
 * Racket Scheme: Familiar
 
-# Course Sampling
-
-* CNS 187	: Neural Computation
-* CNS 186	: Vision: From Computational Theory to Neuronal Mechanisms
-* CNS 184	: Primate Vision
-* CNS 162	: Cellular and Systems Neuroscience Laboratory
-* CS 156a	: Learning Systems
-* CNS 153   : Brain Circuits
-* E 120	    : Data Visualization Projects
-* EE 111	: Signal-Processing Systems and Transforms
-* CNS 105	: Frontiers in Neuroeconomics
-* CDS 101	: Design and Analysis of Feedback Systems
-* ACM 95	: Introductory Methods of Applied Mathematics
-* Art 89	: New Media Arts
-
 # Course Notes
 
 Have designed and run experiments in monkeys and mice in the course of
