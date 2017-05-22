@@ -66,5 +66,19 @@ Location based chat rooms
 ## Education
 ### Hack Reactor, Software Engineering Immersive                    (2017)
 ### California Institute of Technology, B.S.                 (2009 - 2016)  
-Engineering and Applied Science - Computation and Neural Systems    
+**Engineering and Applied Science - Computation and Neural Systems** 
+
+##### Selected Classes
+* Neural Computation
+* Vision: From Computational Theory to Neuronal Mechanisms
+* Primate Vision
+* Cellular and Systems Neuroscience Laboratory
+* Learning Systems
+* Brain Circuits
+* Data Visualization Projects
+* Signal-Processing Systems and Transforms
+* Frontiers in Neuroeconomics
+* Design and Analysis of Feedback Systems
+* New Media Arts
+
 
