@@ -19,7 +19,7 @@ C++, Matlab, Angular, Backbone, Racket(Scheme)
 
 ## Projects
 
-### Thesis Project, Software Engineer|                              (2017)
+### Thesis Project, Software Engineer                               (2017)
 Coming soon to a hosting provider near you!
 
 * This
