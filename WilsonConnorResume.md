@@ -27,14 +27,14 @@ Coming soon to a hosting provider near you!
 * be
 * fulfilled
 
-### [Tribal](tribal2.herokuapp.com)                                 (2017)
+### [Tribal](https://tribal2.herokuapp.com)                         (2017)
 Realtime vote ordered collaborative playlists for Spotify
 
 * Set up server side token based authorization
 * Integrated playlist creation and vote reordering with Spotify via API
 * Implemented database logic for vote based reordering of tracks
 
-### [Fridgr](fridgr.com)                                            (2017)
+### [Fridgr](http://fridgr.com)                                     (2017)
 Shared inventory management system with a focus on groceries
 
 * Managed Heroku deployment and PostgreSQL database
