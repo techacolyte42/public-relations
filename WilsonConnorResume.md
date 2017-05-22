@@ -1,8 +1,8 @@
 # Connor K. Wilson   
 Woodside, CA 94062  
 (626) 765-7965                      
-ckwilson42@gmail.com
-[Github](github.com/techacolyte42)
+ckwilson42@gmail.com  
+[Github](github.com/techacolyte42)  
 [LinkedIn](linkedin.com/in/connor-wilson-63bb6719)                           
 
 California Institute of Technology graduate with additional training in
