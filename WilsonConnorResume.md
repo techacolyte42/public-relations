@@ -2,8 +2,8 @@
 Woodside, CA 94062  
 (626) 765-7965                      
 ckwilson42@gmail.com
-github.com/techacolyte42
-linkedin.com/in/connor-wilson-63bb6719                           
+[Github](github.com/techacolyte42)
+[LinkedIn](linkedin.com/in/connor-wilson-63bb6719)                           
 
 California Institute of Technology graduate with additional training in
 fullstack web technologies. Looking to undertake new challenges, solve  problems, and lay strong groundwork for future progress.
@@ -14,7 +14,7 @@ fullstack web technologies. Looking to undertake new challenges, solve  problems
 JavaScript, Node, D3, Express, React, PostgreSQL, Heroku, Digital Ocean,
 SQLite, MongoDB, Python, Jupyter, Linux, Git, LaTeX, HTML/CSS
 
-### Conceptually Familiar
+### Familiar
 C++, Matlab, Angular, Backbone, Racket(Scheme)
 
 ## Projects
@@ -27,14 +27,14 @@ Coming soon to a hosting provider near you!
 * be
 * fulfilled
 
-### Tribal -- tribal2.herokuapp.com                                 (2017)
+### [Tribal](tribal2.herokuapp.com)                                 (2017)
 Realtime vote ordered collaborative playlists for Spotify
 
 * Set up server side token based authorization
 * Integrated playlist creation and vote reordering with Spotify via API
 * Implemented database logic for vote based reordering of tracks
 
-### Fridgr -- fridgr.com                                            (2017)
+### [Fridgr](fridgr.com)                                            (2017)
 Shared inventory management system with a focus on groceries
 
 * Managed Heroku deployment and PostgreSQL database
