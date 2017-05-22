@@ -1,149 +1,71 @@
-# About
-
-Connor K. Wilson  
-112 Ware Rd.  
+# Connor K. Wilson   
 Woodside, CA 94062  
 
-(509) 207-9170  
-ckwilson42@gmail.com  
+(626) 765-7965                      linkedin.com/in/connor-wilson-63bb6719
+ckwilson42@gmail.com                              github.com/techacolyte42
 
-California Institute of Technology new graduate seeking first post
-graduation employment. Course experience has centered on brains,
-computation, and a bit of physics, while job experience has included
-operating heavy machinery and JavaScript web-front end work. Excited
-for new challenges and laying strong groundwork for future progress.
+California Institute of Technology graduate with additional training in
+fullstack web technologies. Looking to undertake new challenges, solve  problems, and lay strong groundwork for future progress.
 
-# Education
+# Technical Skills
 
-California Institute of Technology  
-Bachelor of Science  
-Engineering and Applied Science - Computation and Neural Systems  
-2009 -- 2015  
+### Strong
+JavaScript, Node, D3, Express, React, PostgreSQL, Heroku, Digital Ocean,
+SQLite, MongoDB, Python, Jupyter, Linux, Git, LaTeX, HTML/CSS
+
+### Conceptually Familiar
+C++, Matlab, Angular, Backbone, Racket(Scheme)
+
+# Projects
+
+## <Thesis Project>, Software Engineer                              (2017)
+Coming soon to a hosting provider near you!
+
+* This
+* will
+* be
+* fulfilled
+
+## Tribal -- tribal2.herokuapp.com                                  (2017)
+Realtime vote ordered collaborative playlists for Spotify
+
+* Set up server side token based authorization
+* Integrated playlist creation and vote reordering with Spotify via API
+* Implemented database logic for vote based reordering of tracks
+
+## Fridgr -- fridgr.com                                             (2017)
+Shared inventory management system with a focus on groceries
+
+* Managed Heroku deployment and PostgreSQL database
+* Teamed up to create cookie based session management
+* Fully implemented React "shopping list" component
+  - Front end, back end, and database query logic
+
+## Presence                                                         (2017)
+Location based chat rooms
+
+* MongoDB location based queries to display messages from nearby users
+* React frontend
+* WIP (these bullet points will improve when I upgrade app)
 
 # Work Experience
 
---------------------------------------------------------------------------
-7/2014 -- 12/2014  
-AuriQ Systems  
-Datascience Intern  
+## AuriQ Systems, DataScience Intern                                (2014)
 
-Projects:   
-
-* Prototyped dashboard using Ember.js and D3.js for display of data
-  insights to customers in an attractive and comprehensible manner.
-  - Set up Flask RESTful server on AWS with SQLite backend for demo purposes
-* Analyzed advertising impression and click data with a smorgasbord of tools
-  - Bash pipe and stream with Awk and Sed
-  - Python with SciPy and Pandas
-  - SQLite (the unsung hero)
-* Wrote preliminary upgraded interface for AuriQ's ETL product
-  using the Python argparse library
-
---------------------------------------------------------------------------
-Winter 2013 -- Winter 2014  
-Caltech  
-Cooking TA  
-
-Work in team of 3 TAs to oversee ~10 students as they learn how to cook.
-Prevent injury and promote best practices. 
-
---------------------------------------------------------------------------
-Spring 2010 -- Winter 2014  
-Caltech  
-Student Waiter  
-
-Serve students during hovse "family style" sit down dinners. Acted as
-Blacker Hovse headwaiter spring 2012 -- spring 2013. Headwaiter duties
-include managing schedule and liaising with Caltech dining.
-
---------------------------------------------------------------------------
-Summer: 2011, 2012, 2013, 2015  
-W2 Ranch  
-Ranch Hand  
-
-General purpose ranch hand on small family ranch. Tasks include:
-driving tractor, building fence, chasing cows, and managing irrigation
-systems.
-
---------------------------------------------------------------------------
-Summer: 2009, 2010  
-LCF Enterprise  
-Intern  
-
-Independent projects assembling high voltage plasma generators.
-2009: Assemble and test "homebrew" (parts sourced from Wal-Mart and
-Home Depot) Farnsworth Fusor.
-2010: Assemble and test Dense Plasma Focus designed by University of
-Nevada- Reno.
-
-# Toolchain
-
-* Python: Proficient
-  - First choice language
-	
-* JavaScript: Reasonably proficient
-  - See: https://github.com/techacolyte42/SpaceFiller
-
-* Linux: Reasonably proficient
-  - Bash, Awk, Sed, pipe aware
-	
-* C++: Reasonably proficient
-
-* Git: Reasonably proficient
-	
-* Matlab: Less proficient
-  - Replaced with Python
-
-* LaTeX: Somewhat proficient
-  - Used for PDF version of this resume.
-
-* SQLite: Familiar
-	
-* Racket Scheme: Familiar
-
-# Course Sampling
-
-* CNS 187	: Neural Computation
-* CNS 186	: Vision: From Computational Theory to Neuronal Mechanisms
-* CNS 184	: Primate Vision
-* CNS 162	: Cellular and Systems Neuroscience Laboratory
-* CS 156a	: Learning Systems
-* CNS 153   : Brain Circuits
-* E 120	    : Data Visualization Projects
-* EE 111	: Signal-Processing Systems and Transforms
-* CNS 105	: Frontiers in Neuroeconomics
-* CDS 101	: Design and Analysis of Feedback Systems
-* ACM 95	: Introductory Methods of Applied Mathematics
-* Art 89	: New Media Arts
-
-# Course Notes
-
-Have designed and run experiments in monkeys and mice in the course of
-my studies. Also have some coursework experience with neural networks,
-machine learning, control theory, and signal processing.
-
-# Additional Projects
-
-* The Facewall: 2013  
-
-A pulsating wall of illuminated faces.  Heads of various students were
-turned into 3d models using Autodesk's 123d Catch software.  These
-models were then cast in acrylic and backlit by Raspberry Pi
-controlled LEDs pulsing morse code. My responsibilities in the project
-lay in light control and head modeling, my partner did casting and
-physical design.
-
-* Meteor Map: 2013  
-
-App written in Processing that displays where meteorites have been
-found in the United States, with a mix of toggleable display modes:
-geographical map with groundcover, geographical map with elevation,
-treemap sorted by groundcover, treemap sorted by elevation. An attempt
-to find where people find rocks from space. Conclusion: they find them
-in Texas. 
+* Prototyped data dashboard using Ember to navigate stateless D3 views
+  - Create Flask RESTful server on AWS with SQLite datastore for demo
+* Analyzed advertising impression and click data with smorgasbord of tools
+  - Bash pipe and stream with Awk and Sed for data pipelining
+  - Indexed SQLite tables for fast munging of ~12 gigabytes of data
+  - Python with SciPy and Pandas in IPython (Jupyter) notebooks
+* Wrote preliminary command line interface for ETL product using the Python
+  argparse library
 
 
-# Reference
-
-Available on request
+# Education
+## Hackreactor
+## California Institute of Technology  
+Bachelor of Science  
+Engineering and Applied Science - Computation and Neural Systems  
+2009 -- 2015  
 
